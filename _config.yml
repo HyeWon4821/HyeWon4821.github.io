@@ -139,14 +139,14 @@ project_load_more_url: https://github.com/shin4821
 project_my_name: 개인프로젝트
 
 project_my: # 형식에 맞추어 항목 추가
-- background_url: images/accountBook.PNG
+- background_url: images/notepad.PNG
   animation: fadeInLeft
   name: 메모장 개발<br>(2021.06 ~ 2021.10)<br>사용언어 - C++
   description: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다. 이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다.
   detail_url: #
   readmore_url: https://github.com/shin4821/NotePad20210821
 
-- background_url: images/accountBook.PNG
+- background_url: images/newAccountBook.PNG
   animation: fadeInLeft
   name: 가계부 개발<br>(2021.05.08 ~ 2021.05.28)<br>사용언어 - C++
   description: 수입, 지출 관리용 가계부를 만들어보았습니다. 시작일자, 종료일자, 적요에 따라 필터링된 수입, 지출, 차액을 볼 수 있습니다.
@@ -231,7 +231,7 @@ exp_counters:
 #  speed: 10000
 - name: project
   count: 6
-  speed: 5000
+  speed: 3000
 
 
 # Career
