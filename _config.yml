@@ -139,7 +139,7 @@ project_load_more_url: https://github.com/shin4821
 project_my_name: 개인프로젝트
 
 project_my: # 형식에 맞추어 항목 추가
-- background_url: images/notepad.PNG
+- background_url: images/accountBook.PNG
   animation: fadeInLeft
   name: 메모장 개발<br>(2021.06 ~ 2021.10)<br>사용언어 - C++
   description: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다. 이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다.
