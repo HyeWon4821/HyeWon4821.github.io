@@ -144,7 +144,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: 메모장 개발<br>(2021.06 ~ 2021.10)<br>사용언어 - C++
   description: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다. 이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다.
   detail_url: pdf/메모장 프로그램.pdf
-  readmore_url: https://github.com/shin4821/NotePad20211124
+  readmore_url: https://github.com/shin4821/NotePad20211130
 
 - background_url: images/accountBook_.PNG
   animation: fadeInLeft
