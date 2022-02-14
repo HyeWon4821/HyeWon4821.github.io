@@ -79,7 +79,7 @@ about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
   name: Data
 - icon: icon-monitor
-  name: C#/WPF/XAML
+  name: C#/WPF
 - icon: icon-code
   name: C++/C
 - icon: icon-document-text
@@ -120,11 +120,11 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 80
   mark: 70
   content: DBMS중 MySQL을 사용하여 데이터 관리 프로그램을 개발하였습니다.
-- name: Github
+- name: C#/WPF
   color: color-4
   animation: fadeInRight
-  percent: 30
-  mark: 30
+  percent: 80
+  mark: 70
   content: github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
 tech_desc: #앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
@@ -211,7 +211,7 @@ project_my: # 형식에 맞추어 항목 추가
 # Experience
 exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.
-exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
+exp_content: 현재 개발에는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
 exp_services: # 형식에 맞추어 항목 추가
 - name: 외국어능력
   color: color-1
@@ -238,30 +238,30 @@ exp_counters:
 carerr_meta: career
 career_header: Work Career
 career_list:
-- name: 데이터 관리 프로그램(절차지향)
-  date: 2020.10~2021.02
-  content: 주소록, 단어장, 명함철, 퀴즈단어장을 통해 절차지향 데이터 관리 프로그램 제작.  <br> C언어, API, MySQL, 다양한 자료구조를 통해 설계, 개발하였습니다.
+- name: GXC
+  date: 2021.12~2022.02
+  content: 게임 런쳐 프로그램 개발  <br> C#, WPF 등을 통해 직접 UI를 제작하고, 다양한 자료구조를 통해 설계, 개발하였습니다.
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
-- name: 데이터 관리 프로그램(객체지향)
-  date: 2021.02~2021.05
-  content: 주소록, 단어장, 명함철, 퀴즈단어장을 통해 객체지향 데이터 관리 프로그램 제작.  <br> C++, MFC, MySQL, 다양한 자료구조를 통해 설계, 개발하였습니다.
-  color: color-2
-  icon: icon-pen2
-  animation: fadeInRight
-- name: 가계부
-  date: 2021.05~2021.06
-  content: 수입, 지출 관리용 가계부를 만들어보았습니다.  <br> C++, MFC, MySQL, 다양한 자료구조를 통해 설계, 개발하였습니다.
-  color: color-2
-  icon: icon-pen2
-  animation: fadeInRight
-- name: 메모장
-  date: 2021.06~2021.11
-  content: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다.<br>이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다. <br>객체 설계부터 인터페이스 설계까지 책임지며 약 22,000줄의 큰 프로그램을 다뤄보는 법을 배웠습니다.
-  color: color-2
-  icon: icon-pen2
-  animation: fadeInRight
+#- name: 데이터 관리 프로그램(객체지향)
+#  date: 2021.02~2021.05
+#  content: 주소록, 단어장, 명함철, 퀴즈단어장을 통해 객체지향 데이터 관리 프로그램 제작.  <br> C++, MFC, MySQL, 다양한 자료구조를 통해 설계, 개발하였습니다.
+#  color: color-2
+#  icon: icon-pen2
+#  animation: fadeInRight
+#- name: 가계부
+#  date: 2021.05~2021.06
+#  content: 수입, 지출 관리용 가계부를 만들어보았습니다.  <br> C++, MFC, MySQL, 다양한 자료구조를 통해 설계, 개발하였습니다.
+#  color: color-2
+#  icon: icon-pen2
+#  animation: fadeInRight
+#- name: 메모장
+#  date: 2021.06~2021.11
+#  content: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다.<br>이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다. <br>객체 설계부터 인터페이스 설계까지 책임지며 약 22,000줄의 큰 프로그램을 다뤄보는 법을 배웠습니다.
+#  color: color-2
+#  icon: icon-pen2
+#  animation: fadeInRight
 
 
 # Education
@@ -271,7 +271,10 @@ edu_list:
 - title: SOFTWARE ENGINEER ACADEMY
   subtitle: 박컴학원 교육생
   date: 2020.07 - 2021.11
-  content: 소프트웨어 엔지니어 과정 수료중
+  content: 소프트웨어 엔지니어 과정 수료
+- title: WPF Masterclass
+  date: 2020.07 - 2021.11
+  content: Udemy WPF Masterclass 과정 수료
 - title: GACHON UNIVERSITY
   subtitle: 가천대학교 중어중문학과 졸업
   date: 2012.03 - 2016.08
