@@ -125,7 +125,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInRight
   percent: 80
   mark: 70
-  content: C#/WPF를 이용하여 런처 프로그램을 개발한 적이 있습니다.
+  content: C#/WPF를 이용하여 게임 런처 프로그램을 개발하였습니다.
 tech_desc: #앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
 
@@ -240,7 +240,7 @@ career_header: Work Career
 career_list:
 - name: GXC
   date: 2021.12~2022.02
-  content: 게임 런쳐 프로그램 개발  <br> C#, WPF 등을 통해 직접 UI를 제작하고, MVVM 디자인패턴 이용하여 개발하였습니다.
+  content: Native Developer - 게임 런쳐 프로그램 개발  <br> C#, WPF 등을 통해 직접 UI를 제작하고, MVVM 디자인패턴을 이용하여 개발하였습니다.
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
