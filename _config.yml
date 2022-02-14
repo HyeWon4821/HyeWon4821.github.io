@@ -79,7 +79,7 @@ about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
   name: Data
 - icon: icon-monitor
-  name: Web
+  name: C#/WPF/XAML
 - icon: icon-code
   name: C++/C
 - icon: icon-document-text
