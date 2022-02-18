@@ -77,7 +77,7 @@ about_content: >-
   <strong> 또 한번, 저만의 도전이 시작되었습니다. </strong>
 about_services: # 형식에 맞추어 항목 추가
 - icon: icon-data
-  name: Data
+  name: MySQL
 - icon: icon-monitor
   name: C#/WPF
 - icon: icon-code
@@ -86,10 +86,14 @@ about_services: # 형식에 맞추어 항목 추가
   name: MFC/API
 
 about_box_content: >-
-  "나는 항상 내가 할 수 없는 일들을 하려 해왔다. <br>
-   나는 내가 할 수 없는 일들을 이루는 방법을 순서대로 적절하게 배우면 그 일들을 이룰 수 있었다. <br>
-   행동은 모든 성공의 기본 열쇠이다."<br>
-    - 파블로 피카소
+#  "나는 항상 내가 할 수 없는 일들을 하려 해왔다. <br>
+#   나는 내가 할 수 없는 일들을 이루는 방법을 순서대로 적절하게 배우면 그 일들을 이룰 수 있었다. <br>
+#   행동은 모든 성공의 기본 열쇠이다."<br>
+#    - 파블로 피카소
+   프로그래밍을 공부하며 제일 중요하다고 생각되는 부분은 "문제해결능력"이었습니다.<br>
+   탄탄한 로직이 세워지면, 그 후 어떤 언어를 사용하던 언어는 로직을 구현해주는 수단에 지나지 않았습니다. <br>
+   저는 "문제해결능력"을 기르기 위하여 배열, 연결리스트, 이분검색트리 라이브러리를 직접 만들어 원리를 익혔습니다. <br>
+   또한 C,C++로 기초를 세워 JAVA, C#등 다른 객체지향 언어에 쉽게 접근하고 익힐 수 있는 능력을 길렀습니다. <br>
 
 about_box_button:
    link: https://github.com/shin4821
@@ -136,7 +140,7 @@ project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span>
 project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
 project_load_more_url: https://github.com/shin4821
 
-project_my_name: 개인프로젝트
+project_my_name: 개인프로젝트(각 항목별 자세한 사항은 detail - github - README를 참고해 주세요)
 
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/notepad.PNG
