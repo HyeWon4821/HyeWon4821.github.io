@@ -2,7 +2,7 @@ title: 신혜원의 포트폴리오 사이트
 name: 신혜원
 email: shin4821@naver.com
 description: >-
-  Software Engineer
+  Software Developer
 
 
 baseurl: ""
@@ -46,7 +46,7 @@ slider_1: # 형식에 맞추어 항목 추가
   subtitle: >- 
     조금은 늦었지만<br>
     무작정 따라하며 성장해온<br>
-    초보 개발자 신혜원의<br>
+    개발자 신혜원의<br>
     포트폴리오 사이트 입니다.
   #position: absolute
   #transform: translate ( -50%, -50%)
@@ -57,9 +57,9 @@ slider_1: # 형식에 맞추어 항목 추가
 # About
 about_meta: About Me
 about_header: >- 
-  "중어중문학과 출신 초보 개발자"
+  "중어중문학과 출신 개발자"
 about_introduce: >-
-  "안녕하세요. 소프트웨어 개발 전문가를 꿈꾸는 신혜원 입니다."
+  "안녕하세요. 소프트웨어 개발 전문가 신혜원 입니다."
 about_content: >-
   학창 시절부터 무엇인가에 도전하는 삶을 꿈꿔왔습니다. <br>
   나의 능력을 향상시켜 남들에게 인정받는것을 좋아했습니다. <br>
@@ -251,7 +251,7 @@ career_header: Work Career
 career_list:
 - name: GXC
   date: 2021.12~2022.02
-  content: Native Developer - 게임 런쳐 프로그램 개발  <br> C#, WPF 등을 통해 직접 UI를 제작하고, MVVM 디자인패턴을 이용하여 개발하였습니다.
+  content: Native Developer Intern - 게임 런쳐 프로그램 개발  <br> C#, WPF 등을 통해 직접 UI를 제작하고, MVVM 디자인패턴을 이용하여 개발하였습니다.
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
