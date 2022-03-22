@@ -118,12 +118,12 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 80
   mark: 70
   content: HTML, CSS, Javascript, Python(flask), MongoDB, Docker, AWS 등 다양한 기술을 이용하여 웹사이트를 구축하였습니다. <br><br><br>
-- name: MySQL
+- name: MySQL/MongoDB
   color: color-3
   animation: fadeInLeft
   percent: 80
   mark: 70
-  content: DBMS중 MySQL을 사용하여 데이터 관리 프로그램을 개발하였습니다.
+  content: MySQL, MongoDB를 사용하여 데이터 관리 프로그램을 개발하였습니다.
 - name: C#/WPF
   color: color-4
   animation: fadeInRight
