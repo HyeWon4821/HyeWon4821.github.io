@@ -306,8 +306,8 @@ blog_list:
   subtitle: 개발 블로그 운영
   date: 2021.11
   content: 시작한지 얼마 되지 않았지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해보려고 합니다.
-  thumbnail_url: images/gitmain.PNG
-  link: https://shin4821.github.io/
+  thumbnail_url: images/blogimage.PNG
+  link: https://shay-dev-blog.tistory.com/
 
 
 # Contact
