@@ -148,7 +148,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: 웹사이트 개발 - 게시판 <br>(2022.03)<br>사용스택 - Python(flask), MongoDB, HTML/CSS/JS, Bootstrap, Docker, AWS
   description: 이 웹사이트는 기본 게시판을 모델로 만들었습니다. 글작성, 글수정, 글삭제, 회원가입, 댓글달기 등 기능이 있습니다.
   detail_url: http://www.shayboard.site/board/list
-  readmore_url: https://github.com/shin4821/BoardWebsite20220317
+  readmore_url: https://github.com/shin4821/BoardWebsite20220322
 
 - background_url: images/notepad.PNG
   animation: fadeInLeft
