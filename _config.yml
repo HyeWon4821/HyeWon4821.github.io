@@ -145,35 +145,35 @@ project_my_name: 개인프로젝트(각 항목별 자세한 사항은 detail - g
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/board2.PNG
   animation: fadeInLeft
-  name: 웹사이트 개발 - 게시판 <br>(2022.03)<br>사용스택 - Python(flask), MongoDB, HTML/CSS/JS, Bootstrap, Docker, AWS
+  name: 웹사이트 개발 - 게시판 <br>(2022.03)<br>기술스택 - Python(flask), MongoDB, HTML/CSS/JS, Bootstrap, Docker, AWS
   description: 이 웹사이트는 기본 게시판을 모델로 만들었습니다. 글작성, 글수정, 글삭제, 회원가입, 댓글달기 등 기능이 있습니다.
   detail_url: http://www.shayboard.site/board/list
   readmore_url: https://github.com/shin4821/BoardWebsite20220322
 
 - background_url: images/notepad.PNG
   animation: fadeInLeft
-  name: 메모장 개발<br>(2021.06 ~ 2021.10)<br>사용언어 - C++
+  name: 메모장 개발<br>(2021.06 ~ 2021.10)<br>기술스택 - C++, MFC
   description: 이 메모장은 윈도우 기본 메모장을 참고하여 만든 메모장입니다. 이 메모장을 만들면서 윈도우 메모장에 없어서 아쉬웠던 기능들을 추가하였습니다.
   detail_url: pdf/메모장 프로그램.pdf
   readmore_url: https://github.com/shin4821/NotePad20211130
 
 - background_url: images/accountBook_.PNG
   animation: fadeInLeft
-  name: 가계부 개발<br>(2021.05.08 ~ 2021.05.28)<br>사용언어 - C++
+  name: 가계부 개발<br>(2021.05.08 ~ 2021.05.28)<br>사용언어 - C++, MySQL
   description: 수입, 지출 관리용 가계부를 만들어보았습니다. 시작일자, 종료일자, 적요에 따라 필터링된 수입, 지출, 차액을 볼 수 있습니다.
   detail_url: #
   readmore_url: https://github.com/shin4821/AccountBook20210528
 
 - background_url: images/vocabularyBinder.png
   animation: fadeInLeft
-  name: 퀴즈단어장 개발<br>(C++버전 - 2021.05.02 ~ 2021.05.07<br> C버전 - 2021.12.02 ~ 2020.12.16)
+  name: 퀴즈단어장 개발<br>(C++버전 - 2021.05.02 ~ 2021.05.07<br> C버전 - 2021.12.02 ~ 2020.12.16<br>DB - MySQL)
   description: 알파벳별로 트리를 만들어 효율적인 단어관리를 할 수 있는 퀴즈 단어장 입니다. 퀴즈를 풀면서 암기 단어, 미암기 단어를 구분하도록 해두어서 효율성을 높혔습니다.
   detail_url: https://github.com/shin4821/IndexBinder-20210517
   readmore_url: https://github.com/shin4821/IndexBinder20210219-
 
 - background_url: images/businessCardBinder.png
   animation: fadeInLeft
-  name: 명함철 개발<br>(C++버전 - 2021.03.30 ~ 2021.04.29<br> C버전 - 2020.11.13 ~ 2020.11.25)
+  name: 명함철 개발<br>(C++버전 - 2021.03.30 ~ 2021.04.29<br> C버전 - 2020.11.13 ~ 2020.11.25<br>DB - MySQL)
   description: 회사별로 트리를 만들어 효율적인 명함관리를 할 수 있는 명함철 입니다. 
   detail_url: https://github.com/shin4821/IndexBinder20210429
   readmore_url: https://github.com/shin4821/IndexBinder20210204-
