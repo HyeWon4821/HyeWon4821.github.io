@@ -145,7 +145,7 @@ project_my_name: 개인프로젝트(각 항목별 자세한 사항은 detail - g
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/bounceballgame.PNG
   animation: fadeInLeft
-  name: 공튕기기 게임 개발 - 게시판 <br>(2022.03)<br>기술스택 - Python
+  name: 공튕기기 게임 개발<br>(2022.03)<br>기술스택 - Python
   description: pygame 라이브러리를 활용한 실전 게임을 제작했습니다. 공을 쪼개서 없애면 게임이 끝나도록 제작되었습니다.
   #detail_url: http://www.shayboard.site/board/list
   readmore_url: https://github.com/shin4821/Pygame20220329
